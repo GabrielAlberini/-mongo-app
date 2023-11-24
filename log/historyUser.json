@@ -1,4 +1,14 @@
 {
-  "userConnection": [],
-  "userDisconnetion": []
+  "userConnection": [
+    {
+      "id": "50891cdd-49a0-4308-896a-d21d9f920d71",
+      "date": "23/11/2023, 21:32:53"
+    }
+  ],
+  "userDisconnetion": [
+    {
+      "id": "50891cdd-49a0-4308-896a-d21d9f920d71",
+      "date": "23/11/2023, 21:32:53"
+    }
+  ]
 }
